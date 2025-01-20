@@ -1,5 +1,0 @@
-C:\Users\aproc\source\repos\BarberShop\BarberShop.Infraectructure\obj\Debug\net8.0\BarberShop.Infraectructure.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\aproc\source\repos\BarberShop\BarberShop.Infraectructure\obj\Debug\net8.0\BarberShop.Infraectructure.AssemblyInfoInputs.cache
-C:\Users\aproc\source\repos\BarberShop\BarberShop.Infraectructure\obj\Debug\net8.0\BarberShop.Infraectructure.AssemblyInfo.cs
-C:\Users\aproc\source\repos\BarberShop\BarberShop.Infraectructure\obj\Debug\net8.0\BarberShop.Infraectructure.csproj.CoreCompileInputs.cache
-C:\Users\aproc\source\repos\BarberShop\BarberShop.Infraectructure\obj\Debug\net8.0\BarberShop.Infraectructure.sourcelink.json
