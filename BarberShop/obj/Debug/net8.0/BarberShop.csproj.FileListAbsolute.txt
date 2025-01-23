@@ -1,0 +1,12 @@
+C:\Users\aproc\source\repos\BarberShop\BarberShop\bin\Debug\net8.0\BarberShop.deps.json
+C:\Users\aproc\source\repos\BarberShop\BarberShop\bin\Debug\net8.0\BarberShop.dll
+C:\Users\aproc\source\repos\BarberShop\BarberShop\bin\Debug\net8.0\BarberShop.pdb
+C:\Users\aproc\source\repos\BarberShop\BarberShop\obj\Debug\net8.0\BarberShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aproc\source\repos\BarberShop\BarberShop\obj\Debug\net8.0\BarberShop.AssemblyInfoInputs.cache
+C:\Users\aproc\source\repos\BarberShop\BarberShop\obj\Debug\net8.0\BarberShop.AssemblyInfo.cs
+C:\Users\aproc\source\repos\BarberShop\BarberShop\obj\Debug\net8.0\BarberShop.csproj.CoreCompileInputs.cache
+C:\Users\aproc\source\repos\BarberShop\BarberShop\obj\Debug\net8.0\BarberShop.sourcelink.json
+C:\Users\aproc\source\repos\BarberShop\BarberShop\obj\Debug\net8.0\BarberShop.dll
+C:\Users\aproc\source\repos\BarberShop\BarberShop\obj\Debug\net8.0\refint\BarberShop.dll
+C:\Users\aproc\source\repos\BarberShop\BarberShop\obj\Debug\net8.0\BarberShop.pdb
+C:\Users\aproc\source\repos\BarberShop\BarberShop\obj\Debug\net8.0\ref\BarberShop.dll

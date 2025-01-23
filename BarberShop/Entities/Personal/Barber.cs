@@ -18,9 +18,7 @@ namespace BarberShop.Entities.Personal
         public int YearsOfExperience { get; set; }
         public string Availability { get; set; } // Puede representarse como un horario estructurado
         public double AverageRating { get; set; } // Rating promedio basado en comentarios
-
-
-
-
+        public string LicenseNumber { get; set; }
+        public string Name { get; set; }
     }
 }
