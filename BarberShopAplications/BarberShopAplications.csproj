@@ -15,4 +15,8 @@
     <Folder Include="Responses\" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\BarberShop.Persitance.cs\BarberShop.Persitance.cs.csproj" />
+  </ItemGroup>
+
 </Project>
