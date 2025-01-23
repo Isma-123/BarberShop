@@ -1,4 +1,4 @@
-#BarberShop
+**BarberShop**
 
 Descripción
 BarberShop es una aplicación web diseñada para ofrecer a los clientes una experiencia excepcional en la barbería. Permite realizar reservas, ver los servicios ofrecidos, y obtener información de contacto de manera rápida y sencilla. Esta plataforma está enfocada en la facilidad de uso y la eficiencia tanto para los clientes como para el personal de la barbería.
