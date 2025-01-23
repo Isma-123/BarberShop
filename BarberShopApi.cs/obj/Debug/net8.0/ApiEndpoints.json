@@ -1,0 +1,81 @@
+[
+  {
+    "ContainingType": "BarberShopApi.cs.Controllers.InvoiceControllers",
+    "Method": "Delete",
+    "RelativePath": "api/InvoiceControllers/DeleteInvoices",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "BarberShop.Entities.Servers.Invoice",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BarberShopApi.cs.Controllers.InvoiceControllers",
+    "Method": "Get",
+    "RelativePath": "api/InvoiceControllers/GetInvoices",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BarberShopApi.cs.Controllers.InvoiceControllers",
+    "Method": "Get",
+    "RelativePath": "api/InvoiceControllers/GetInvoicesById",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BarberShopApi.cs.Controllers.InvoiceControllers",
+    "Method": "Post",
+    "RelativePath": "api/InvoiceControllers/SaveInvoices",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "value",
+        "Type": "BarberShop.Entities.Servers.Invoice",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BarberShopApi.cs.Controllers.InvoiceControllers",
+    "Method": "Put",
+    "RelativePath": "api/InvoiceControllers/UpdateInvoices",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "value",
+        "Type": "BarberShop.Entities.Servers.Invoice",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
